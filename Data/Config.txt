@@ -1,1 +1,1 @@
-$#$#$#https://raw.githubusercontent.com/rajaramesh2018/GameADConfig/main/Data/Logo1.png|https://www.google.com|1$https://raw.githubusercontent.com/rajaramesh2018/GameADConfig/main/Data/pushpa_logo.jpg|https://www.yahoo.com|1$*$*$*
+$#$#$#https://raw.githubusercontent.com/rajaramesh2018/GameADConfig/main/Data/Logo1.png|https://www.google.com|0$https://raw.githubusercontent.com/rajaramesh2018/GameADConfig/main/Data/pushpa_logo.jpg|https://www.yahoo.com|1$*$*$*
